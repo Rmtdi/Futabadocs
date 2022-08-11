@@ -1,0 +1,24 @@
+{
+  "name": "futabadocs",
+  "version": "0.0.1",
+  "description": "the docs of futaba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rmtdi/Futabadocs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rmtdi/Futabadocs/issues"
+  },
+  "homepage": "https://github.com/Rmtdi/Futabadocs#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.49"
+  }
+}
