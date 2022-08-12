@@ -4,4 +4,3 @@ title: Futaba Docs
 description: The docweb for FutabaRio
 ---
 # Welcone
-![logo](images/futaba.jpg)
