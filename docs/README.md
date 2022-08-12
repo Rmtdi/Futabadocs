@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
-title: 标题
-description: 页面的描述
+title: Futaba Docs
+description: The docweb for FutabaRio
 ---
-# Hello VuePress
-![logo](images/hero.png)
+# Welcone
+![logo](images/futaba.jpg)
