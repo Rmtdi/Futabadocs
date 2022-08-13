@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/Rmtdi/Futabadocs#readme",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.49"
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.49",
+    "@vuepress/plugin-search": "^2.0.0-beta.49",
+    "vuepress": "^2.0.0-beta.49",
+    "vuepress-plugin-fulltext-search": "^2.2.1"
   }
 }
