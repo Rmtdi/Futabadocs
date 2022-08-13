@@ -5,13 +5,13 @@ lang: zh-CN
 description: 关于双叶理央的文档网站
 actions:
   - text: 双叶信息
-    link: /guide/
+    link: /futabadata/
     type: primary
   - text: 投稿/合作
-    link: /zh/guide/getting-started.html
+    link: /
     type: secondary
   - text: 同人作品
-    link: /guide/
+    link: /
     type: primary
 heroImage: /images/futaba.jpg
 ---

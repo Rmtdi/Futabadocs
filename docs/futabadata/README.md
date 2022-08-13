@@ -1,5 +1,5 @@
 ---
-title: 双叶理央的档案
+title: 双叶理央的信息档案
 lang: zh-CN
 description: 关于双叶理央的文档网站
 ---

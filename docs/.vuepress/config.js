@@ -29,28 +29,28 @@ module.exports = {
           children: [
             {
               text: '双叶理央',
-              children: ['futabadata/README.md'],
+              children: ['/futabadata/README.md','/futabadata/story.md'],
             },
             {
-              text: 'SubGroup2',
-              children: ['/more/README.md', '/group/sub/bar.md'],
+              text: '相关人物',
+              children: ['...', '...'],
             },
           ],
         },
       ],
 
       sidebar: {
-        '/more/': [
+        '/futabadata/': [
           {
-            text: 'VuePress Reference',
+            text: '官方信息',
             collapsible: true,
-            children: ['/reference/cli.md', '/reference/config.md'],
+            children: ['/futabadata/README.md', '...'],
           },
-          {
+          /*{
             text: 'Bundlers Reference',
             collapsible: true,
             children: ['/reference/bundler/vite.md', '/reference/bundler/webpack.md'],
-          },
+          },*/
         ],
       },
     }),
