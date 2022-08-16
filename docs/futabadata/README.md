@@ -35,4 +35,4 @@ description: 关于双叶理央的文档网站
 
 双叶的身材很优秀，娇小的身躯上胸部却很是突出，曾被梓川枫在日记里表示羡慕。不过双叶却一度对自己的身材非常悲观
 
-![Rio_HMWX](images/双叶_回眸微笑.jpg "Rio_HMWX")
+![Rio_lbs](images/Rio_lookbacksmile.jpg "Rio_lbs")
