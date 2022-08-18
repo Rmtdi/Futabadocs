@@ -1,4 +1,5 @@
 const { defaultTheme } = require('@vuepress/theme-default')
+const { searchPlugin } = require('@vuepress/plugin-search')
 
 module.exports = {
 //    dest: ".vuepress/dist",
@@ -7,13 +8,19 @@ module.exports = {
     title: '双叶文档',
 
     description: '欢迎来到为双叶理央而创建的文档网站',
-/*
+
     plugins: [
       searchPlugin({
-        maxSuggestions: '15'
+        maxSuggestions: '15',
+	locales: {
+	  '/': {
+	    placeholder: '双叶一下',
+	  },
+	},
+	isSearchable: (page) => page.path !== '/',
       }),
     ],
-*/
+
     theme: defaultTheme({
        
       home: '/',
@@ -21,6 +28,16 @@ module.exports = {
       logo: '/images/futaba.jpg',
 
       docsRepo: 'https://github.com/Rmtdi/Futabadocs',
+
+      editLinkText: '前往修改本文',
+
+      lastUpdatedText: '上次编辑时间',
+
+      contributorsText: '参与贡献列表',
+
+      notFound: ['これ页面の消失！'],
+
+      backToHome: '回首页去',
 
       navbar: [
         // 嵌套 Group - 最大深度为 2
