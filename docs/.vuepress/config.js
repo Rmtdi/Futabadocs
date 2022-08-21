@@ -35,9 +35,9 @@ module.exports = {
 
       contributorsText: '参与贡献列表',
 
-      notFound: ['これ页面の消失！'],
+      notFound: ['文档页面の消失！'],
 
-      backToHome: '回首页去',
+      backToHome: '< 回到首页',
 
       navbar: [
         // 嵌套 Group - 最大深度为 2
@@ -45,12 +45,12 @@ module.exports = {
           text: '官方信息',
           children: [
             {
-              text: '双叶理央',
+              text: '双叶理央信息',
               children: ['/futabadata/README.md','/futabadata/story.md'],
             },
             {
-              text: '相关人物',
-              children: ['...', '...'],
+              text: '相关人物信息',
+              children: ['/.','/.'],
             },
           ],
         },
@@ -59,9 +59,9 @@ module.exports = {
       sidebar: {
         '/futabadata/': [
           {
-            text: '官方信息',
+            text: '双叶理央信息',
             collapsible: true,
-            children: ['/futabadata/README.md', '...'],
+            children: ['/futabadata/README.md', '.'],
           },
           /*{
             text: 'Bundlers Reference',
