@@ -61,7 +61,7 @@ module.exports = {
           {
             text: '双叶理央信息',
             collapsible: true,
-            children: ['/futabadata/README.md', '.'],
+            children: ['/futabadata/README.md', 'futabadata/story.md'],
           },
           /*{
             text: 'Bundlers Reference',
