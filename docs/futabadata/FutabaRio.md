@@ -2,6 +2,7 @@
 title: 双叶理央的信息档案
 lang: zh-CN
 description: 关于双叶理央的文档网站
+next: /futabadata/story.md
 ---
 ## 双叶 理央
 原名：双葉（ふたば FuTaBa） 理央（りお RiO）

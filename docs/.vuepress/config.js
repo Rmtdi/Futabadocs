@@ -1,5 +1,5 @@
 const { defaultTheme } = require('@vuepress/theme-default')
-// const { searchPlugin } = require('@vuepress/plugin-search')
+const { searchPlugin } = require('@vuepress/plugin-search')
 
 module.exports = {
 //    dest: ".vuepress/dist",
@@ -9,7 +9,7 @@ module.exports = {
 
     description: '欢迎来到为双叶理央而创建的文档网站',
 
-/*    plugins: [
+    plugins: [
       searchPlugin({
         maxSuggestions: '15',
 	locales: {
@@ -19,7 +19,7 @@ module.exports = {
 	},
 	isSearchable: (page) => page.path !== '/',
       }),
-    ],*/
+    ],
 
     theme: defaultTheme({
        
@@ -46,7 +46,7 @@ module.exports = {
           children: [
             {
               text: '双叶理央信息',
-              children: ['/futabadata/README.md','/futabadata/story.md'],
+              children: ['/futabadata/FutabaRio.md','/futabadata/story.md'],
             },
             {
               text: '相关人物信息',
@@ -61,7 +61,7 @@ module.exports = {
           {
             text: '双叶理央信息',
             collapsible: true,
-            children: ['/futabadata/README.md', 'futabadata/story.md'],
+            children: ['/futabadata/FutabaRio.md', '/futabadata/story.md'],
           },
           /*{
             text: 'Bundlers Reference',
