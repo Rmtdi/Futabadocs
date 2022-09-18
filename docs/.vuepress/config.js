@@ -2,7 +2,7 @@ const { defaultTheme } = require('@vuepress/theme-default')
 //const { searchPlugin } = require('@vuepress/plugin-search')
 
 module.exports = {
-//    dest: ".vuepress/dist",
+    dest: "/.vuepress/dist",
     lang: 'zh-CN',
 
     title: '双叶文档',

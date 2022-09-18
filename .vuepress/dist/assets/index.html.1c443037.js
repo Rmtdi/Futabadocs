@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"Futaba Docs","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"Futaba Docs","description":"The docweb for FutabaRio"},"excerpt":"","headers":[],"git":{"updatedTime":1660304597000,"contributors":[{"name":"Rmtdi","email":"rmtdiyl@outlook.com","commits":3}]},"filePathRelative":"README.md"}');export{t as data};

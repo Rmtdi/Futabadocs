@@ -1,1 +1,0 @@
-import{_ as a,o as c,c as t,a as e,b as n}from"./app.c9c157df.js";const o={},r=e("h1",{id:"welcone",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#welcone","aria-hidden":"true"},"#"),n(" Welcone")],-1),s=[r];function _(d,i){return c(),t("div",null,s)}var h=a(o,[["render",_],["__file","index.html.vue"]]);export{h as default};
