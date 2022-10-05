@@ -2,7 +2,7 @@ const { defaultTheme } = require('@vuepress/theme-default')
 //const { searchPlugin } = require('@vuepress/plugin-search')
 
 module.exports = {
-    dest: "/.vuepress/dist",
+//    dest: "/.vuepress/dist",
     lang: 'zh-CN',
 
     title: '双叶文档',
@@ -48,7 +48,7 @@ module.exports = {
           children: [
             {
               text: '双叶理央信息',
-              children: ['/futabadata/FutabaRio.md','/futabadata/story.md'],
+              children: ['/info/FutabaRio.md','/info/story.md'],
             },
             {
               text: '相关人物信息',
@@ -63,7 +63,7 @@ module.exports = {
           {
             text: '双叶理央信息',
             collapsible: true,
-            children: ['/futabadata/FutabaRio.md', '/futabadata/story.md'],
+            children: ['/info/FutabaRio.md', '/info/story.md'],
           },
           /*{
             text: 'Bundlers Reference',
