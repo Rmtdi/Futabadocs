@@ -5,7 +5,7 @@ lang: zh-CN
 description: 关于双叶理央的文档网站
 actions:
   - text: 双叶信息
-    link: /futabadata/
+    link: /futabadata/FutabaRio.md
     type: primary
   - text: 投稿/合作
     link: /
