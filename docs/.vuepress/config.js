@@ -59,7 +59,7 @@ module.exports = {
       ],
 
       sidebar: {
-        '/futabadata/': [
+        '/info/': [
           {
             text: '双叶理央信息',
             collapsible: true,
