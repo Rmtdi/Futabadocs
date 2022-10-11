@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-14f73021\",\"path\":\"/more/\",\"title\":\"页面的标题\",\"lang\":\"zh-CN\",\"frontmatter\":{\"lang\":\"zh-CN\",\"title\":\"页面的标题\",\"description\":\"页面的描述\"},\"excerpt\":\"\",\"headers\":[],\"git\":{},\"filePathRelative\":\"more/README.md\"}")
