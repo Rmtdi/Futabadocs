@@ -16,3 +16,9 @@ $cbglighter:#D7EEDB;
 	--c-bg-navbar: var(--c-bg);
 	--c-bg-sidebar: var(--c-bg);
 }
+html.dark {
+	// background colors
+	--c-bg: #222f28;
+	--c-bg-light: #283733;
+	--c-bg-lighter: #24322f;
+}
