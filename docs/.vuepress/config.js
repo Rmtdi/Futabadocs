@@ -47,7 +47,7 @@ export default {
           children: [
             {
               text: '双叶理央',
-              children: ['/info/FutabaRio.md','/info/story.md'],
+              children: ['/Rio/FutabaRio.md','/Rio/story.md'],
             },
             /*{
               text: '相关人物信息',
@@ -62,7 +62,7 @@ export default {
           {
             text: '双叶理央',
             collapsible: true,
-            children: ['/info/FutabaRio.md', '/info/story.md'],
+            children: ['/Rio/FutabaRio.md', '/Rio/story.md'],
           },
           /*{
             text: 'Bundlers Reference',
