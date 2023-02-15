@@ -58,7 +58,7 @@ export default {
       ],
 
       sidebar: {
-        '/info/': [
+        '/Rio/': [
           {
             text: '双叶理央',
             collapsible: true,
