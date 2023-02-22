@@ -11,7 +11,7 @@ actions:
     link: /
     type: secondary
   - text: 同人作品
-    link: /
+    link: /ff/
     type: primary
 heroImage: /images/futaba.jpg
 ---

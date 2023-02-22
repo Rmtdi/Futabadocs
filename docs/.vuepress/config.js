@@ -49,10 +49,19 @@ export default {
               text: '双叶理央',
               children: ['/Rio/FutabaRio.md','/Rio/story.md'],
             },
-            /*{
-              text: '相关人物信息',
-              children: ['/.','/.'],
-            },*/
+          ],
+        },
+        {
+          text: '同人作品',
+          children: [
+            {
+              text: '图片',
+              children: ['/ff/images/']
+            },
+            {
+              text: '音乐',
+              children: ['/Rio/FutabaRio.md','/Rio/story.md']
+            },
           ],
         },
       ],
@@ -64,12 +73,29 @@ export default {
             collapsible: true,
             children: ['/Rio/FutabaRio.md', '/Rio/story.md'],
           },
-          /*{
-            text: 'Bundlers Reference',
-            collapsible: true,
-            children: ['/reference/bundler/vite.md', '/reference/bundler/webpack.md'],
-          },*/
         ],
+        '/ff/': [
+          {
+            text: '同人图画',
+            collapsible: true,
+            children: ['/ff/images/'],
+          },
+          {
+            text: '同人音乐',
+            collapsible: true,
+            children: ['/ff/images/'],
+          },
+        ],
+        '/ff/images/': [
+          {
+            text: '同人图画',
+            collapsible: true,
+            children: [
+              '/ff/images/',
+              '/ff/images/Railcup_Lerio.md',
+            ],
+          }
+        ]
       },
     }),
   }

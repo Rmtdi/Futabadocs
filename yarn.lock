@@ -1654,9 +1654,9 @@ vuepress-vite@2.0.0-beta.51:
     "@vuepress/core" "2.0.0-beta.51"
     "@vuepress/theme-default" "2.0.0-beta.51"
 
-vuepress@^2.0.0-beta.51:
+vuepress@2.0.0-beta.51:
   version "2.0.0-beta.51"
-  resolved "https://registry.npmjs.org/vuepress/-/vuepress-2.0.0-beta.51.tgz"
+  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-2.0.0-beta.51.tgz#4a9d6baa00c477f288bd5dc23e97113495565b94"
   integrity sha512-IEavO4+9OpyjL9UANVbH8LZ3Cgmj6Amjt41JPM5nZ29U0aDsHJeVWDwyuMVYTlOvZiY+JDHEtIbfM839wFzEcw==
   dependencies:
     vuepress-vite "2.0.0-beta.51"
